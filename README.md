@@ -7,5 +7,7 @@ git clone
 
 import face_recogniton dependency, opencv-python, numpy
 
+create __init__.py
+
 run face_tracking.py
 
